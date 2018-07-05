@@ -34,6 +34,4 @@ The template used in this project was derived from a [DigitalOcean email templat
 
 Ideally, the template should follow basic email template guidelines to be consistently displayed across all platforms. These include having all CSS inline and enclosing all the content inside a table.
 
-![Desktop Preview](screenshots/desktop.jpg?raw=true)
-
-![Mobile Preview](screenshots/mobile.jpg)
+![Desktop Preview](screenshots/desktop.jpg?raw=true "Desktop Preview")
