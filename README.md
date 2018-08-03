@@ -2,6 +2,7 @@
 This is a Python script to automate sending the weekly and reminder emails for [ScottyLabs](https://scottylabs.org/) at [Carnegie Mellon University](https://www.cmu.edu).
 
 ### Dependancies
+You will need the following packages installed for Python 2.7:
 * `email`
 * `datetime`
 * `requests`
