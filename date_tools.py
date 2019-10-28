@@ -37,8 +37,7 @@ def dt_format(date):
 #########################
 
 def now_datetime():
-    return None
-    # return dt_format(datetime.datetime.now() + datetime.timedelta(minutes=2))
+    return dt_format(datetime.datetime.now() + datetime.timedelta(minutes=2))
 
 #########################
 ####### GBM Date ########
